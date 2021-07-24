@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFFEmployeeManagement", "KFFEmployeeManagement\KFFEmployeeManagement.csproj", "{F5F27E5D-0141-4737-97E1-D9C71C9E5413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KFFEmployeeManagement", "KFFEmployeeManagement\KFFEmployeeManagement.csproj", "{F5F27E5D-0141-4737-97E1-D9C71C9E5413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFFEmployeeManagement.Data", "KFFEmployeeManagement.Data\KFFEmployeeManagement.Data.csproj", "{8580D3DD-5CC7-4EA6-A699-E545D96B776E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KFFEmployeeManagement.Data", "KFFEmployeeManagement.Data\KFFEmployeeManagement.Data.csproj", "{8580D3DD-5CC7-4EA6-A699-E545D96B776E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFFEmployeeManagement.Domain", "KFFEmployeeManagement.Domain\KFFEmployeeManagement.Domain.csproj", "{1F28EAC4-1913-47B7-8E98-18B981FC5A42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KFFEmployeeManagement.Domain", "KFFEmployeeManagement.Domain\KFFEmployeeManagement.Domain.csproj", "{1F28EAC4-1913-47B7-8E98-18B981FC5A42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFFEmployeeManagement.Service", "KFFEmployeeManagement.Service\KFFEmployeeManagement.Service.csproj", "{905D664C-A5F8-4306-8BE7-00108EB70D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KFFEmployeeManagement.Service", "KFFEmployeeManagement.Service\KFFEmployeeManagement.Service.csproj", "{905D664C-A5F8-4306-8BE7-00108EB70D37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EF9CD5F-BB4A-4037-9901-1FB0B28FF835}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
